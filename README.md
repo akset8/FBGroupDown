@@ -15,3 +15,5 @@ Voila!Done, now you should see a like button on your browser bar , click it to u
 PS : There might be multiple copies of the files downloader (not more than 2) due to some existing bugs
 
 PPS : The source is everything in here except the .crx and .pem files (they are the packaged files created by chrome extension manager)
+
+PPPS : finally gotten the hang of javascript!
