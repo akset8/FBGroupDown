@@ -13,3 +13,4 @@ Since its still in beta , not published to the store.To use :
 Voila!Done, now you should see a like button on your browser bar , click it to use the extension.
 
 PS : There might be multiple copies of the files downloader (not more than 2) due to some existing bugs
+PPS : The source is everything in here except the .crx and .pem files (they are the packaged files created by chrome extension manager)
