@@ -52,6 +52,7 @@ chrome.runtime.onMessage.addListener(
       
       }
     }
+    //main 
      
          window.scrollTo(0,document.body.scrollHeight);
          downloadlinks() ;
