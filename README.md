@@ -12,7 +12,6 @@ Since its still in beta , not published to the store.To use :
 
 Voila!Done, now you should see a like button on your browser bar , click it to use the extension.
 
-
-PS : The source is everything in here except the .crx and .pem files (they are the packaged files created by chrome extension manager)
-
-PPS : finally gotten the hang of javascript!
+PS  :you would have to scroll to the bottom of the page for all files to be downloaded :p<working on fixing this>
+PPS : The source is everything in here except the .crx and .pem files (they are the packaged files created by chrome extension manager)
+PPPS : finally gotten the hang of javascript!
