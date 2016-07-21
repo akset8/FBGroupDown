@@ -19,7 +19,10 @@ chrome.runtime.onMessage.addListener(
 
     }
 
-     function downloadlinks(){
+    function lol(){
+
+    window.scrollTo(0,document.body.scrollHeight); 
+
 
     b = document.getElementsByTagName('a') ;
 
@@ -51,11 +54,8 @@ chrome.runtime.onMessage.addListener(
       downloadAll(uniq1) ;
       
       }
+      lol() ;
     }
-     
-         window.scrollTo(0,document.body.scrollHeight);
-         downloadlinks() ;
-  
       
     }
   }
